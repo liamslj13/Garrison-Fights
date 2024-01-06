@@ -12,5 +12,5 @@ The goal of the game is keep Garrison alive for as long as possible. To achieve 
 An example playthrough of the game can be found [here](https://www.youtube.com/watch?v=45j4MsjzOiY).
 
 ## Itch.io
-The [itch.io](https://liamsjy13.itch.io/garrison-fights) page for this game. There is no perfect working build yet, and the downloadable builds/HTML embed on the itch.io page **is** broken.
+The [itch.io](https://liamsjy13.itch.io/garrison-fights) page for this game. There is no perfect working build yet, and the HTML embed/downloadable builds on the itch.io page are broken.
 
