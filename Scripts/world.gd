@@ -20,13 +20,7 @@ func spawnenemy():
 	cyborg.position = Vector2(randi_range(50, 600), randi_range(-100, -101))
 	slime.position = Vector2(randi_range(50, 600), randi_range(-100, -101))
 	skeleton.position = Vector2(randi_range(50, 600), randi_range(200, 150))
-	
-func _ready():
-	Global.node_creation_parent = self
-	
-func _exit_tree():
-	Global.node_creation_parent = null
-	
+
 func _on_enemy_timer_timeout():
 	spawnenemy()
 	
